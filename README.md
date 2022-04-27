@@ -35,7 +35,7 @@ Of course I understand that need to be knowledgeable in techical questions, that
 - How to use Axelar's Bridge [RU](https://www.youtube.com/watch?v=d6UCwiwXeQg&t=12s)
 - Telegram post about Axelar Governance in Cosmos Ecosystem and Advantages of Cosmos Votings and Airdrops [RU](https://t.me/lifeofpunkchannel/191)
 
-**Golden** The decentralized canonical knowledge graph
+**[Golden](https://golden.com/explore)** The decentralized canonical knowledge graph
 - Golden explanation [RU](https://link.medium.com/Jawj2jt6ypb)
 - Golden's Guide of usage [RU](https://link.medium.com/2SC9m6z6ypb)
 - How Golden can be important for crypto enthusiasts [RU](https://link.medium.com/vq3BvJD6ypb)
