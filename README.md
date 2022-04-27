@@ -3,7 +3,7 @@ I will simply explaine my position of web.3 and right after below I will put dow
 
 My inspiration is an idea of the new Internet. I’m absolutely excited about the potential of the XXI century and how our impact can grow humanity civilization in the nearest future.
 
-Theoretically become a planet race humanity will need to structurate huge TB of data which will need to be obviously reliable. In another way we may collide with a lot of mistakes and misunderstandings. It’s absolutely crucial to obtain data own, maintain and service it. No matter monetary transactions or pictures of bugs.
+Theoretically become a planet race humanity will need to structurate huge TB of data which will need to be obviously reliable. In another way we may collide with a lot of mistakes and misunderstandings. It’s absolutely crucial to obtain data, own, maintain and service it. No matter monetary transactions or pictures of bugs.
 
 Of course it's a big responsibility for future generation and our task don't disappoint them.
 
@@ -32,6 +32,7 @@ Of course I understand that need to be knowledgeable in techical questions, that
 - Axelar open source cryptographic libraries [RU](https://link.medium.com/ELWMPzF5ypb) 
 - Brief Axelar explanation [RU](https://www.youtube.com/watch?v=-rY60gYWAJI)
 - Axelar and we have to take focus on it [RU](https://www.youtube.com/watch?v=kuB35eoAHLI&t=60s)
+- Telegram post about Axelar Governance in Cosmos Ecosystem and Advantages of Cosmos Votings and Airdrops [RU](https://t.me/lifeofpunkchannel/191)
 
 
 
