@@ -13,31 +13,25 @@ Of course it's a big responsibility for future generation and our task don't dis
 Of course I understand that need to be knowledgeable in techical questions, that's why currently I really interesting in developing and learning  Solidity, SQL and Python with contionsly growing in my present skills.
 
 # My constributions
-**Goldfich Ambassador Programm** where I explained some basic things about the project and did interesting articles with media explanations.
-
- <br /> Medium articles: <br />
+**[Goldfich](https://goldfinch.finance/) Ambassador Programm** where I explained some basic things about the project and did interesting articles with media explanations.
 - Goldfinch and what it actually is [RU](https://link.medium.com/p86Il1Y1ypb) 
 - Goldfich and potential of macroeconomic analysis of Indonesia [RU](https://link.medium.com/CjYLdQa2ypb)
-
- <br /> YouTube Videos: <br />
 - YouTube Video about what is Goldfich [RU](https://www.youtube.com/watch?v=xoWeHZ1J4N8&t=82s)
 - YouTube Video about macro, currency and regulatory risks for GoldFinch [RU](https://www.youtube.com/watch?v=L-PW4Q41S9s&t=72s)
 - YouTube Video about types of financial reports for GoldFinch [RU](https://www.youtube.com/watch?v=Rz9U1rZ1Jio&t=83s)
 
-<br /><br />
-**Bit.Coutry Ambassador Programm** 
-
-<br /> Medium articles: <br />
+**[Bit.Coutry](https://bit.country/) Ambassador Programm** where I puch out the Idea of Metaverces as a new trend, before Facebook has been rename to Meta.
 - What is Metaverses and why it just a part of our evolution process [RU](https://link.medium.com/Ad3KlRm4ypb)
 - Bit.Coutry Article about opportunities of Metavers [RU](https://link.medium.com/mdJHyni4ypb)
-
-<br /> YouTube Videos: <br />
 - What is Bit.Country and you should know about it [RU](https://www.youtube.com/watch?v=IMcsnR_QT2c&t=262s)
 - How possible to earn on the trend of Metaverces [RU](https://www.youtube.com/watch?v=yBptMQDj4Xc&t=34s)
 
-
-
-
+**[Axelar](https://axelar.network/) Ecosystem Support** where I explained opportunity in using Axelar's bridge with transfering throw EVM to Cosmos SDK.
+- Axelar has started out the mainet [RU](https://link.medium.com/NUbOA9m5ypb)
+- Axelar Incentivized Quantum Community Program [RU](https://link.medium.com/DVxE1Qs5ypb)
+- Axelar open source cryptographic libraries [RU](https://link.medium.com/ELWMPzF5ypb) 
+- Brief Axelar explanation [RU](https://www.youtube.com/watch?v=-rY60gYWAJI)
+- Axelar and we have to take focus on it [RU](https://www.youtube.com/watch?v=kuB35eoAHLI&t=60s)
 
 
 
