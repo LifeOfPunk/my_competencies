@@ -1,7 +1,7 @@
 # My oda to Web.3 and why I think humanity is going to be a part of structure's of blockchains.
 I will simply explaine my position of web.3 and right after below I will put down my constributions list. Thank you!
 
--![image](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftw.noxinfluencer.com%2Fyoutube%2Fvideo-analytics%2F-JvUoyvNX_k&psig=AOvVaw0QXfyN6JQprHdU9AOz-GE1&ust=1651148081536000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCKjrysictPcCFQAAAAAdAAAAABAD)
+![image]()
 
 My inspiration is an idea of the new Internet. I’m absolutely excited about the potential of the XXI century and how our impact can grow humanity civilization in the nearest future.
 
