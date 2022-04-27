@@ -54,8 +54,12 @@ Of course I understand that need to be knowledgeable in techical questions, that
 - Aleo Review The Project YouTube Video [RU](https://www.youtube.com/watch?v=e7ikB8WQFIE)
 - Aleo ZK Proof Explanation [RU](https://www.youtube.com/watch?v=cskhuxB2xYc&t=1s)
 
-
-
+**[EYWA](https://eywa.fi/eng/)** is a **zero-layer protocol for all blockchains**, that gives access to consolidated DeFi liquidity, and opens limitless opportunities for operations between different chains: cross-chain dapps development, trade, etc.
+- Analitics YouTube Video About the Project [RU](https://www.youtube.com/watch?v=GdnaRsHkKx4&t=65s)
+- Telegram Post about EYWA [RU](https://t.me/lifeofpunkchannel/26)
+- Also in our DAO we raised 136 933$ for the project [Link](https://eywa.defihuntersdao.club/sale/3)
+- We did AMA with the project [RU](https://www.youtube.com/watch?v=e8fa93l7aIo)
+- I did analitic for the project
 
 
 
