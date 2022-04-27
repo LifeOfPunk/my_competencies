@@ -43,6 +43,19 @@ Of course I understand that need to be knowledgeable in techical questions, that
 - YouTube Video what is Golden [RU](https://www.youtube.com/watch?v=YQ0rztvqG0k&t=107s)
 - How to become a Golden constributor [RU](https://www.youtube.com/watch?v=JHhTGHkyqrk&t=354s)
 
+**Aleo Ambassador** where I help the project to be recognizable and famous in the crypto world to be as an Official Ambassador.
+- Aleo the platfrom for development private dapps [RU](https://link.medium.com/g6mYvNHfzpb)
+- Aleo. Ambassador Program Details [RU](https://link.medium.com/T4CrGHOfzpb)
+- Zero Knowledge Primitives by Aleo [RU](https://link.medium.com/VLvdZYRfzpb)
+- Zero Knowledge Proof: Explain it Like I’m 5 [RU](https://link.medium.com/irdelcWfzpb)
+- Aleo Token Economics [RU](https://link.medium.com/rJ8frHZfzpb)
+- 
+
+
+
+
+
+
 
 # My analytics
 
