@@ -14,7 +14,7 @@ Of course it's a big responsibility for future generation and our task don't dis
 **My desire and goals**
 Of course I understand that need to be knowledgeable in techical questions, that's why currently I really interesting in developing and learning  Solidity, SQL and Python with contionsly growing in my present skills.
 
-# My contributions
+# [My contributions](https://github.com/LifeOfPunk/my_competencies/tree/main/My%20Contributions)
 **[Goldfich](https://goldfinch.finance/) Ambassador Programm** where I explained some basic things about the project and did interesting articles with media explanations.
 - Goldfinch and what it actually is [RU](https://link.medium.com/p86Il1Y1ypb) 
 - Goldfich and potential of macroeconomic analysis of Indonesia [RU](https://link.medium.com/CjYLdQa2ypb)
