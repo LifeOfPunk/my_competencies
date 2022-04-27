@@ -24,6 +24,21 @@ Of course I understand that need to be knowledgeable in techical questions, that
 - YouTube Video about macro, currency and regulatory risks for GoldFinch [RU](https://www.youtube.com/watch?v=L-PW4Q41S9s&t=72s)
 - YouTube Video about types of financial reports for GoldFinch [RU](https://www.youtube.com/watch?v=Rz9U1rZ1Jio&t=83s)
 
+<br /><br />
 **Bit.Coutry Ambassador Programm** 
 
 <br /> Medium articles: <br />
+- What is Metaverses and why it just a part of our evolution process [RU](https://link.medium.com/Ad3KlRm4ypb)
+- Bit.Coutry Article about opportunities of Metavers [RU](https://link.medium.com/mdJHyni4ypb)
+
+<br /> YouTube Videos: <br />
+- What is Bit.Country and you should know about it [RU](https://www.youtube.com/watch?v=IMcsnR_QT2c&t=262s)
+- How possible to earn on the trend of Metaverces [RU](https://www.youtube.com/watch?v=yBptMQDj4Xc&t=34s)
+
+
+
+
+
+
+
+
