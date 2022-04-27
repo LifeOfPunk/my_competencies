@@ -51,7 +51,8 @@ Of course I understand that need to be knowledgeable in techical questions, that
 - Zero Knowledge Primitives by Aleo [RU](https://link.medium.com/VLvdZYRfzpb)
 - Zero Knowledge Proof: Explain it Like I’m 5 [RU](https://link.medium.com/irdelcWfzpb)
 - Aleo Token Economics [RU](https://link.medium.com/rJ8frHZfzpb)
-- 
+- Aleo Review The Project YouTube Video [RU](https://www.youtube.com/watch?v=e7ikB8WQFIE)
+- Aleo ZK Proof Explanation [RU](https://www.youtube.com/watch?v=cskhuxB2xYc&t=1s)
 
 
 
