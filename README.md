@@ -32,8 +32,15 @@ Of course I understand that need to be knowledgeable in techical questions, that
 - Axelar open source cryptographic libraries [RU](https://link.medium.com/ELWMPzF5ypb) 
 - Brief Axelar explanation [RU](https://www.youtube.com/watch?v=-rY60gYWAJI)
 - Axelar and we have to take focus on it [RU](https://www.youtube.com/watch?v=kuB35eoAHLI&t=60s)
+- How to use Axelar's Bridge [RU](https://www.youtube.com/watch?v=d6UCwiwXeQg&t=12s)
 - Telegram post about Axelar Governance in Cosmos Ecosystem and Advantages of Cosmos Votings and Airdrops [RU](https://t.me/lifeofpunkchannel/191)
 
-
+**Golden** The decentralized canonical knowledge graph
+- Golden explanation [RU](https://link.medium.com/Jawj2jt6ypb)
+- Golden's Guide of usage [RU](https://link.medium.com/2SC9m6z6ypb)
+- How Golden can be important for crypto enthusiasts [RU](https://link.medium.com/vq3BvJD6ypb)
+- Triples explanation [RU](https://link.medium.com/ImfnVbK6ypb)
+- YouTube Video what is Golden [RU](https://www.youtube.com/watch?v=YQ0rztvqG0k&t=107s)
+- How to become a Golden constributor [RU](https://www.youtube.com/watch?v=JHhTGHkyqrk&t=354s)
 
 
